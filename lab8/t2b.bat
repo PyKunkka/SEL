@@ -1,0 +1,1 @@
+Program.exe -t2b -s 2 -rF -v -f 1.txt
